@@ -101,7 +101,7 @@ git merge main
 
 You may need to resolve merge conflicts at this point. To resolve a conflict, delete the `<<<<<<< HEAD`, `=======`, and `>>>>>>> main` markers and keep the code that you want.
 
-![](./img/merge-conflict.png)
+![](./merge-conflict.png)
 
 Finally, make a new commit to finish resolving these conflicts:
 
